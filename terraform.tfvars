@@ -23,4 +23,4 @@ instance_type       = "t2.micro"
 pub_instance_name   = "demo-public-instance"
 pvt_instance_name   = "demo-private-instance"
 
-key_name_ssh          = "neeha1"
+key_name_ssh          = "neeha2"
