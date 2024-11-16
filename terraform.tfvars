@@ -18,7 +18,7 @@ pvt_nat             = "demo-nat-gateway"
 
 Sec_Group           = "demo-ec2-sg"
 
-ami_id              = "ami-08bf489a05e916bbd"
+ami_id              = "ami-017095afb82994ac7"
 instance_type       = "t2.micro"
 pub_instance_name   = "demo-public-instance"
 pvt_instance_name   = "demo-private-instance"
